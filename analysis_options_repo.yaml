@@ -17,6 +17,7 @@
 # the only difference (currently) is the public_member_api_docs option,
 # which is turned on and programmatically reduced to a single output line
 # indicating the # of violations for that rule.
+#added something
 
 analyzer:
   language:
